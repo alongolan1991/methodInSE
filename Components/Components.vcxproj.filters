@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Button.cpp" />
+    <ClCompile Include="ComboBox.cpp" />
+    <ClCompile Include="Label.cpp" />
+    <ClCompile Include="MessageWindow.cpp" />
+    <ClCompile Include="Panel.cpp" />
+    <ClCompile Include="UIComponent.cpp" />
+    <ClCompile Include="NumericBox.cpp" />
+    <ClCompile Include="TextBox.cpp" />
+    <ClCompile Include="CheckList.cpp" />
+    <ClCompile Include="RadioBox.cpp" />
+    <ClCompile Include="ListComponent.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Button.h" />
+    <ClInclude Include="ComboBox.h" />
+    <ClInclude Include="Label.h" />
+    <ClInclude Include="MessageWindow.h" />
+    <ClInclude Include="Panel.h" />
+    <ClInclude Include="UIComponent.h" />
+    <ClInclude Include="NumericBox.h" />
+    <ClInclude Include="TextBox.h" />
+    <ClInclude Include="Components.h" />
+    <ClInclude Include="CheckList.h" />
+    <ClInclude Include="RadioBox.h" />
+    <ClInclude Include="ListComponent.h" />
+  </ItemGroup>
+</Project>
